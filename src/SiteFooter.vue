@@ -25,6 +25,9 @@
             <a href="https://groups.google.com/g/openalex-users" target="_blank">Mailing list</a>
           </div>
           <div>
+            <a href="https://mastodon.social/@OpenAlex" target="_blank">Mastodon</a>
+          </div>
+          <div>
             <a href="https://twitter.com/openalex_org" target="_blank">Twitter</a>
           </div>
           <div>
